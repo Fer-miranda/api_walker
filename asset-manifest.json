@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/api_walker/static/css/main.fd17c7cc.css",
+    "main.js": "/api_walker/static/js/main.4f137059.js",
+    "static/js/787.6e99e4ee.chunk.js": "/api_walker/static/js/787.6e99e4ee.chunk.js",
+    "index.html": "/api_walker/index.html",
+    "main.fd17c7cc.css.map": "/api_walker/static/css/main.fd17c7cc.css.map",
+    "main.4f137059.js.map": "/api_walker/static/js/main.4f137059.js.map",
+    "787.6e99e4ee.chunk.js.map": "/api_walker/static/js/787.6e99e4ee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd17c7cc.css",
+    "static/js/main.4f137059.js"
+  ]
+}
